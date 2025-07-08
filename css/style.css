@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+}
+
+#entryinput{
+  margin:20px;
+}
+
+#entrybutton{
+  width: 200px;
+  border: 15px solid green;
+  padding: 70px;
+  margin: auto;
+  display: block;
+  font-size: 30px;
+}
